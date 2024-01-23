@@ -6,7 +6,8 @@ using namespace std; //standard
 int main()
 {
 	//new "paragraph
-	cout << "Hello World" << endl
+	cout << "Hello World" << endl;
+	return 0;
 
 }
 
